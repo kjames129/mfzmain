@@ -64,7 +64,12 @@ a:hover {text-decoration: none;}
   width: 200px;
   height: auto;
 }
-
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 
 
